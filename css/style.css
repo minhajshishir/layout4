@@ -1,0 +1,83 @@
+.head{
+	overflow: hidden;
+	border: 5px solid white;
+	}
+.head1{
+	min-height: 300px;
+	background-color: orange;
+	width: 32%;
+	border: 5px solid white;
+	float: left;
+}
+.head2{
+	min-height: 300px;
+	background-color: orange;
+	width: 34%;
+	border: 5px solid white;
+	float: left;
+}
+.head3{
+	min-height: 300px;
+	background-color: orange;
+	width: 32%;
+	border: 5px solid white;
+	float: left;
+}
+.box{
+	overflow: hidden;
+    border: 5px solid white;
+}
+.box1{
+	min-height: 400px;
+	background-color: orange;
+	width: 24%;
+	border: 5px solid white;
+	float: left;}
+.box2{
+	min-height: 400px;
+	background-color: orange;
+	width: 24%;
+	border: 5px solid white;
+	float: left;
+}
+.box3{
+	min-height: 400px;
+	background-color: orange;
+	width: 24%;
+	border: 5px solid white;
+	float: left;
+}
+.box4{
+	min-height: 400px;
+	background-color: orange;
+	width: 25%;
+	border: 5px solid white;
+	float: left;
+}
+.footer{
+
+      overflow:hidden;
+	border: 5px solid white; 
+
+ }
+.footer1{
+	min-height: 200px;
+	background-color: orange;
+	width: 32%;
+	border: 5px solid white;
+	float: left;
+}
+.footer2{
+	min-height: 200px;
+	background-color: orange;
+	width: 34%;
+	border: 5px solid white;
+	float: left;
+}
+.footer3{
+	min-height: 200px;
+	background-color: orange;
+	width: 32%;
+	border: 5px solid white;
+	float: left;
+}
